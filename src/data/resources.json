@@ -1,0 +1,52 @@
+{
+  "eyes": [
+    {
+      "text": "Eye 1",
+      "complete": false,
+      "answers": {
+        "npdr": "mild",
+        "PDF": false,
+        "probableDME": false,
+        "other": true
+      },
+      "images": [
+        "images/eyescan.jpg",
+        "images/eyescan.jpg",
+        "images/eyescan.jpg",
+        "images/eyescan.jpg"
+      ]
+    },
+    {
+      "text": "Eye 2",
+      "complete": true,
+      "answers": {
+        "npdr": "mild",
+        "PDF": false,
+        "probableDME": false,
+        "other": true
+      },
+      "images": [
+        "images/eyescan.jpg",
+        "images/eyescan.jpg",
+        "images/eyescan.jpg",
+        "images/eyescan.jpg"
+      ]
+    },
+    {
+      "text": "Eye 3",
+      "complete": false,
+      "answers": {
+        "npdr": "mild",
+        "PDF": false,
+        "probableDME": false,
+        "other": true
+      },
+      "images": [
+        "images/eyescan.jpg",
+        "images/eyescan.jpg",
+        "images/eyescan.jpg",
+        "images/eyescan.jpg"
+      ]
+    }
+  ]
+}

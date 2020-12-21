@@ -1,0 +1,12 @@
+aside {
+  margin: 0px;
+  background-color: red;
+}
+
+.main-nav {
+  margin-top: 0px;
+  position: relative;
+  width: 25%;
+  display: inline-block;
+  float: left;
+}
